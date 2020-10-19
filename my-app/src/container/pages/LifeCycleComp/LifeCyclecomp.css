@@ -1,0 +1,8 @@
+.btn {
+    background-color: cyan;
+    width: 150px;
+    color: white;
+    margin-left: 30px;
+    border-radius: 10px;
+    padding: 10px;
+}
